@@ -1,0 +1,33 @@
+.head{
+    background-color: rgb(255, 115, 0);
+    border: solid red;
+}
+
+.custom-card {
+    border: 1px solid red;
+    margin: 5px;
+}
+
+.col {
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+
+.wallpaper{
+    background-color: orange;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.kucing{
+    display: flex;
+    background-color: yellow;
+}
